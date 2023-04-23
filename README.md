@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UkkT7Pi_)
+# Groceries Server
+
+### Express based REST server for serving MongoDB content using Mongoose node module
+
+### Steps to run this code
+
+1. Run `npm install` to install all required modules
+2. Run `mongod` to start the MongoDB server process
+3. Run `mongo groceries` to create `groceries` DB if it wasn't created already
+4. Run `npm start` to start the server
+5. If everything went right, you should see a message saying that the server was started and listenig on some port...
+
+#### Useful Links
+* MongoDB installation manual - https://docs.mongodb.com/manual/installation/
+* Mongoose Node Module - http://mongoosejs.com/

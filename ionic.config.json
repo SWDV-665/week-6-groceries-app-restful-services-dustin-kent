@@ -1,0 +1,7 @@
+{
+  "name": "groceries-server",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
